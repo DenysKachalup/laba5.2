@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\AP\LABAP\5\laba5.2\laba5.2(1)\UnitTest1\UnitTest1.cpp(20,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\AP\LABAP\5\laba5.2\laba5.2(1)\UnitTest1\UnitTest1.cpp(27,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  UnitTest1.vcxproj -> D:\AP\LABAP\5\laba5.2\laba5.2(1)\Debug\UnitTest1.dll
